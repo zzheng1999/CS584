@@ -1,0 +1,2 @@
+modes are in https://drive.google.com/drive/u/1/folders/1ZZysd_HS7nWRGUxedi7XY5X_yVlAPmoB
+dataset: go https://susanqq.github.io/UTKFace/ and download the cropped version(100mb)
